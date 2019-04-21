@@ -7,4 +7,19 @@
 3. 硬盘 双硬盘.  SSD + HDD:
               SSD 是海力士的,PC3000 NVMe SK hynix256G,
               HDD是西数1TB,以前前装过一次.因为无法识别SSD后放弃安装了.这次网上找到了方法,SSD识别成功
-4. 
+4. 显卡nvdia 960M
+5  屏幕 xps15笔记本是1920 X 1080 分辨率的屏。 外接 dell，P2715Q 4K 显示器。走的是雷电口转DP。实现了4K 60HZ输出。
+
+准备材料:
+1.系统安装包.
+  视安装系统而定. 我是 windows10, 加 MacOs
+  macos系统我使用的是黑锅小兵的 10.14.3 版本镜像 https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html
+2. U 盘 2 个.一个用来做 PE 启动盘, 用于在系统安装过程中操作硬盘上的 EFI 分区内文件 同时在 PE 下存放和调用相关辅助工具.
+3. 在网上下载适用于我的机器的 EFI 文件和相关工具.
+    
+安装过程:
+Setep1
+1.系统安装.
+1.1 双系统安装
+  首先
+1.2 单 MACOS 系统安装.
